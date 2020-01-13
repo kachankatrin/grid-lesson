@@ -1,5 +1,5 @@
 {
-  "name": "Nexter",
+  "name": "nexter",
   "version": "1.0.0",
   "description": "Nexter webpage",
   "main": "index.js",
@@ -17,8 +17,17 @@
   "devDependencies": {
     "autoprefixer": "^7.1.4",
     "concat": "^1.0.3",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.0",
     "npm-run-all": "^4.1.1",
     "postcss-cli": "^4.1.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captify-dlisovenko/grid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/captify-dlisovenko/grid/issues"
+  },
+  "homepage": "https://github.com/captify-dlisovenko/grid#readme"
 }
